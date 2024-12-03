@@ -44,7 +44,7 @@ This project is a student project developed at Zagazig University and is not int
 
 #### Swagger Documentation
 
-Swagger UI is used for API documentation. To view the Swagger documentation, navigate to http://localhost:3000/docs after running the server.
+Swagger UI is used for API documentation. 
 
 
 
